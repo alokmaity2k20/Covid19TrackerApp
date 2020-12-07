@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+    <string name="tab1">HOME</string>
+    <string name="tab2">INDIA</string>
+    <string name="tab3">WORLD</string>
+    <string name="track_states">Track States</string>
+    <string name="track_countries">Track Countries</string>
+    <string name="total_cases">Cases</string>
+    <string name="total_recovered">Recovered</string>
+    <string name="total_deaths">Deaths</string>
+    <string name="active">Active</string>
+    <string name="today_active">Today Active</string>
+    <string name="today_cases">Today Cases</string>
+    <string name="today_recovered">Today Recovered</string>
+    <string name="today_deaths">Today Deaths</string>
+    <string name="affected_countries">Affected Countries</string>
+    <string name="state_name">State</string>
+    <string name="call">Call Helpline</string>
+
+    <string name="symp1">Fever</string>
+    <string name="symp2">Dry Cough</string>
+    <string name="symp3">Shortness Of Breath</string>
+    <string name="symp4">Sore Throat</string>
+    <string name="symp5">Headache</string>
+
+    <string name="prev1">Maintain Social Distancing</string>
+    <string name="prev2">Use Mask</string>
+    <string name="prev3">Wash Your Hands</string>
+    <string name="prev4">Stay At Home</string>
+    <string name="india_corona">India Corona</string>
+    <string name="world_corona">World Corona</string>
+    <string name="news">Get latest news updates</string>
+
+    <string-array name="state_helpline">
+        <item>Central Helpline</item>
+        <item>Andaman and Nicobar</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra Nagar Haveli</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kashmir</item>
+        <item> Kerala</item>
+        <item>Ladakh</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Puducherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item> Sikkim</item>
+        <item> Tamil Nadu</item>
+        <item> Telangana</item>
+        <item> Tripura</item>
+        <item>Uttarakhand</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal 1st No</item>
+        <item>West Bengal 2nd No</item>
+    </string-array>
+    <string name="title_activity_news_feed">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="sources">https://api.covidindiatracker.com/
+                           https://disease.sh/v2/all/</string>
+
+    <string name="app_info">App Info</string>
+    <string name="dev">Developer</string>
+    <string name="email">Email</string>
+    <string name="source">Sources</string>
+    <string name="dev_name">Alok Kumar Maity</string>
+    <string name="dev_email">alokmaity2k20@gmail.com</string>
+
+</resources>

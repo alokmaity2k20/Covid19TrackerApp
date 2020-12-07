@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_splash"
+    tools:context=".SplashScreen">
+    <ImageView
+        android:id="@+id/splash_image"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/coronavirus"/>
+    <TextView
+        android:id="@+id/splash_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/splash_image"
+        android:text="covid-19"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:textSize="35sp"
+        android:textAllCaps="true"
+        android:layout_marginTop="25dp"/>
+    <com.leo.simplearcloader.SimpleArcLoader
+        android:id="@+id/splah_arcloader"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/splash_title"
+        android:layout_centerHorizontal="true"
+        app:arc_style="simple_arc"
+        android:layout_marginTop="30dp"/>
+</RelativeLayout>
