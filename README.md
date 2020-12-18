@@ -1,13 +1,16 @@
 # Covid19 Tracker App
 
 This directory contains the full implementation of a covid19 tracker application for
-the Android platform, demonstrating the basic facilities that applications
-will use.  You can download the project and run the application from your android studio 
-list in the app launcher (it is named Skeleton App) or by selecting it from
+the Android platform, in this project multiple android features are used like 
+recycler view, volley library etc
 
-#Sources
+#features
+> Dashboard for worldwide data
+> List of country with data and details
+> Dashboard for Indian data
+> List of country with data and details
 
-For get the data of covid19 over the world, RESTAPI used.
-
+#APIs
+RESTAPIs used for this app 
 For India : https://api.covidindiatracker.com/
 For World : https://disease.sh/v2/all/
